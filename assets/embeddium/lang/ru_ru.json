@@ -1,0 +1,9 @@
+{
+  "embeddium.conflicting_mod": "Embeddium обнаружил моды, которые могут вызвать проблемы с рендером или краши. Рекомендуется удалить их. Список ниже.",
+  "embeddium.conflicting_mod_list": "[{2}]",
+  "embeddium.search_bar_empty": "Поиск настроек...",
+  "embeddium.options.added_by_mod_string": "Добавлено модом: %s",
+  "embeddium.options.fullscreen.resolution.tooltip": "Управляет разрешением игры в полноэкранном режиме.",
+  "embeddium.options.use_quad_normals_for_lighting.name": "Использовать точное освещение квадов",
+  "embeddium.options.use_quad_normals_for_lighting.tooltip": "Если включено, Embeddium будет применять освещение к нестандартным граням блоков на основе их реального направления, а не осевой ориентации. Улучшает качество освещения, если экспериментальный световой пайплайн Forge отключен (рекомендуется для лучшей производительности).\n\nНе влияет, если экспериментальный световой пайплайн включен."
+}
